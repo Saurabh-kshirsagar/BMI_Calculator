@@ -1,5 +1,5 @@
 # BMI_Calculator
-i Developed this website using HTML,CSS,JavaScript
+i Developed this webpage using HTML,CSS,JavaScript
 BMI Calculator
 This is a simpleweb-page that calculates Body Mass Index (BMI) based on a person's height and weight. The BMI is a measure of body fat based on height and weight that applies to adult men and women.
 
